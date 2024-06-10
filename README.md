@@ -1,0 +1,2 @@
+# uas_aplikasi_kecerdasan_buatan_
+Perangkat lunak berbasis artificial intelegence
